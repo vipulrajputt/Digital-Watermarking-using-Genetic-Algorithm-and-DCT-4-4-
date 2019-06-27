@@ -1,7 +1,7 @@
 # Digital-Watermarking-using-Genetic-Algorithm-and-DCT-4-4-
 Digital watermarking using Genetic Algortihm and DCT(4*4 blocks)
 
-#Use this project with permission
+Use this project with permission
 
 Digital Watermarking is the process that embeds data called a watermark, tag or label into a multimedia object such that watermark can be detected or extracted to make an assertion about the object may an image or video or audio may also be text only. 
 
